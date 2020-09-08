@@ -2,7 +2,7 @@
 title: "למה JWT הוא ערק ערק ככה חזק?"
 date: 2020-08-13T17:01:42+03:00
 draft: false
-categories: [""]
+categories: ["."]
 tags: [""]
 featured_image: /JWT.png
 ---

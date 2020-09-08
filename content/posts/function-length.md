@@ -2,7 +2,7 @@
 title: "כמה ארוכה פונקציה צריכה להיות?"
 date: 2020-09-06T16:52:35+03:00
 draft: false
-categories: [""]
+categories: ["."]
 tags: [""]
 featured_image: /function-length.png
 ---

@@ -2,7 +2,7 @@
 title: "Composition Over Inheritance?"
 date: 2020-07-23T17:09:42+03:00
 draft: false
-categories: [""]
+categories: ["."]
 tags: [""]
 featured_image: /Composition-Over-Inheritance.png
 ---

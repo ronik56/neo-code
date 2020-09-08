@@ -2,7 +2,7 @@
 title: "הממ...To comment or not to comment?"
 date: 2020-07-27T17:08:19+03:00
 draft: false
-categories: [""]
+categories: ["."]
 tags: [""]
 featured_image: /To-Comment-or-Not-to-Comment.png
 ---

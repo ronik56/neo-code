@@ -2,7 +2,7 @@
 title: "מה זה DNS, ומה הוא עושה?"
 date: 2020-08-17T16:59:21+03:00
 draft: false
-categories: [""]
+categories: ["."]
 tags: [""]
 featured_image: /DNS.png
 ---

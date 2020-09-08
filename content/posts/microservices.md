@@ -2,7 +2,7 @@
 title: "האם מיקרוסרביסים היא ארכיטקטורת העתיד?"
 date: 2020-09-08T17:05:35+03:00
 draft: false
-categories: [""]
+categories: ["."]
 tags: [""]
 featured_image: /microservices.png
 ---

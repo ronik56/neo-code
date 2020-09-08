@@ -2,7 +2,7 @@
 title: "Functional Programming"
 date: 2020-07-22T17:10:53+03:00
 draft: false
-categories: [""]
+categories: ["."]
 tags: [""]
 featured_image: /Functional-Programming.png
 ---

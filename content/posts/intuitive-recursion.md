@@ -2,7 +2,7 @@
 title: "איך ללמוד רקורסיה באופן אינטואיטיבי"
 date: 2020-08-20T16:54:53+03:00
 draft: false
-categories: [""]
+categories: ["."]
 tags: [""]
 featured_image: /intuitive-recursion.png
 ---

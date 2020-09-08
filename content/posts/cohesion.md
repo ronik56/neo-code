@@ -2,7 +2,7 @@
 title: "לכידות(cohesion) או; איך לסדר מגירה כמו שצריך."
 date: 2020-07-29T17:06:52+03:00
 draft: false
-categories: [""]
+categories: ["."]
 tags: [""]
 featured_image: /cohesion.jpg
 ---

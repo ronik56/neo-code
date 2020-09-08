@@ -3,7 +3,7 @@ title: "הצפנה א-סימטרית"
 date: 2020-08-24T16:46:08+03:00
 draft: false
 tags: [""]
-categories: [""]
+categories: ["."]
 featured_image: /asymmetric-encryption.png
 ---
 

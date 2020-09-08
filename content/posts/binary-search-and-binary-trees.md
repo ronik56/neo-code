@@ -2,7 +2,7 @@
 title: "למה חיפוש בינארי קיים או עדיף, למה בעצם להסתבך עם עצים בינארים?"
 date: 2020-08-10T17:04:00+03:00
 draft: false
-categories: [""]
+categories: ["."]
 tags: [""]
 featured_image: /Binary-Search-and-Binary-Trees.png
 ---

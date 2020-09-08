@@ -3,7 +3,7 @@ title: "UTF-8, ASCII & Unicode"
 date: 2020-08-27T16:41:41+03:00
 draft: false
 tags: [""]
-categories: [""]
+categories: ["."]
 featured_image: /UTF-ASCII-Unicode.png
 ---
 מה זה כל האסקים, UTFים וכל קידודים האלה?

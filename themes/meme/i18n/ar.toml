@@ -1,0 +1,168 @@
+[ellipsis]
+other = "…"
+
+[colon]
+other = ": "
+
+[minute]
+one = "דקה"
+other = "דקות"
+
+[tocTitle]
+other = "תוכן עניינים"
+
+[readMore]
+other = "קרא עוד"
+
+[prevPage]
+other = "חדש יותר"
+
+[nextPage]
+other = "ישן יותר"
+
+[copy]
+other = "העתק"
+
+[copied]
+other = "הועתק!"
+
+[copyrightAuthor]
+other = "מחבר"
+
+[copyrightLink]
+other = "קישור"
+
+[copyrightLicense]
+other = "רישיון"
+
+[shareOn]
+other = "שיתוף ב:"
+
+[shareOnTitle]
+other = "שיתוף ב-"
+
+[shareViaTitle]
+other = "שיתוף דרך "
+
+[relatedPosts]
+other = "ראה גם:"
+
+[loadComments]
+other = "לטעון תגובות?"
+
+[pageNotFound]
+other = "404 - העמוד לא נמצא"
+
+[fofLinkText]
+other = "לדף הבית"
+
+[searchResultsTitle]
+one = "נמצאה תוצאה אחת עבור “{{ .Term }}”"
+other = "נמצאו {{ .Count }} תוצאות עבור “{{ .Term }}”"
+
+[searchResultsNone]
+other = "לא נמצאו תוצאות עבור “{{ .Term }}”"
+
+
+# Socials
+
+[twitter]
+other = "Twitter"
+
+[facebook]
+other = "Facebook"
+
+[linkedin]
+other = "LinkedIn"
+
+[telegram]
+other = "Telegram"
+
+[weibo]
+other = "Weibo"
+
+[douban]
+other = "Douban"
+
+[qq]
+other = "QQ"
+
+[qzone]
+other = "Qzone"
+
+[qrcode]
+other = "QR Code"
+
+
+# Months
+# Used for `i18nMonth`
+
+[january]
+other = "ינואר"
+
+[february]
+other = "פברואר"
+
+[march]
+other = "מרץ"
+
+[april]
+other = "אפריל"
+
+[may]
+other = "מאי"
+
+[june]
+other = "יוני"
+
+[july]
+other = "יולי"
+
+[august]
+other = "אוגסט"
+
+[september]
+other = "ספטמבר"
+
+[october]
+other = "אוקטובר"
+
+[november]
+other = "נובמבר"
+
+[december]
+other = "דצמבר"
+
+
+# Numbers
+# Used for `i18nYear`
+
+[0]
+other = "0"
+
+[1]
+other = "1"
+
+[2]
+other = "2"
+
+[3]
+other = "3"
+
+[4]
+other = "4"
+
+[5]
+other = "5"
+
+[6]
+other = "6"
+
+[7]
+other = "7"
+
+[8]
+other = "8"
+
+[9]
+other = "9"

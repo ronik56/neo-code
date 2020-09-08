@@ -6,6 +6,7 @@ other = ": "
 
 [minute]
 one = "דקה"
+two = "דקות"
 other = "דקות"
 
 [tocTitle]

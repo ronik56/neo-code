@@ -1,7 +1,7 @@
 ---
 title: "על NAT"
 date: 2020-09-12T08:30:00+03:00
-draft: true
+draft: false
 featured_image: /NAT.png
 ---
 איך שורדים עם רק 4 מיליארד כתובות IP לכל האינטרנט? NAT!

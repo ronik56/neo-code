@@ -1,6 +1,6 @@
 ---
 title: "על NAT"
-date: 2020-09-13T08:30:00+03:00
+date: 2020-09-14T08:30:00+03:00
 draft: false
 featured_image: /NAT.png
 ---

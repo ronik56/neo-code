@@ -1,6 +1,6 @@
 ---
 title: "דרכים לנהל שגיאות ואקספשנס"
-date: 2020-10-12T12:43:26+03:00
+date: 2020-10-12T7:43:26+03:00
 draft: false
 author: Aviv Cohen
 featured_image: /exceptions.jpg

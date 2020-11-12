@@ -1,5 +1,5 @@
 ---
-title: "ולמה צריך לבחור לפעמים את האלגוריתם הנכון בעת השוואת מחרוזות Fuzzy Searching, Spelling Correction על"
+title: " למה צריך לבחור לפעמים את האלגוריתם הנכון בעת השוואת מחרוזות"
 date: 2020-11-11T12:43:26+03:00
 draft: false
 author: Aviv Cohen

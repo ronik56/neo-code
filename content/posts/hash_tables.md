@@ -4,7 +4,7 @@ date: 2021-02-27 06:43:26 +0300
 
 draft: false
 author: Aviv Cohen
-featured_image: /hash_tables.jpg
+featured_image: /hash_tables.png
 
 ---
  
